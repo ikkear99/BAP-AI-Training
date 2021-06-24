@@ -1,4 +1,4 @@
-# This is a repo that contains a library of database interactions including:
+# This is a repo that contains a library of database interactions:
 
 **The main functions include:**
 
