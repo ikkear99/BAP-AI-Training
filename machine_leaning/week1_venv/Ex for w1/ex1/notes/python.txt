@@ -1,0 +1,7 @@
+goij được api
+trường nào
+OOP 
+scrap và craw
+có 1 trang web, lấy từ đồng nghĩa: im đúng api kéo về lưu vào db, viết 1 class, lấy class 
+docstring (chú thích)
+try except
