@@ -1,0 +1,130 @@
+,word,define,synonyms,similarity 
+0,hello,greeting,love,50
+1,hello,greeting,farewell,50
+2,hello,greeting,goodbye,50
+3,hello,greeting,salutation,50
+4,hello,greeting,hello,50
+5,hello,greeting,affection,50
+6,hello,welcome; message of kindness,letter,100
+7,hello,welcome; message of kindness,nod,100
+8,hello,welcome; message of kindness,ovation,100
+9,hello,welcome; message of kindness,salute,100
+10,hello,welcome; message of kindness,reception,100
+11,hello,welcome; message of kindness,hello,100
+12,hello,welcome; message of kindness,card,100
+13,hello,welcome; message of kindness,hail,100
+14,hello,welcome; message of kindness,salutation,100
+15,hello,welcome; message of kindness,blow,100
+16,hello,welcome; message of kindness,respects,100
+17,hello,welcome; message of kindness,acknowledgment,100
+18,hello,welcome; message of kindness,testimonial,100
+19,hello,welcome; message of kindness,aloha,100
+20,hello,welcome; message of kindness,note,100
+21,hello,welcome; message of kindness,notice,100
+22,hello,welcome; message of kindness,attention,100
+23,hello,welcome; message of kindness,rumble,100
+24,hello,welcome; message of kindness,regards,100
+25,hello,welcome; message of kindness,address,100
+26,hello,welcome; message of kindness,salaam,100
+27,hello,welcome; message of kindness,heralding,100
+28,hello,welcome; message of kindness,ciao,100
+29,hello,welcome; message of kindness,accosting,100
+30,hello,welcome; message of kindness,howdy,100
+31,hello,welcome; message of kindness,highball,100
+32,hello,welcome; message of kindness,how-do-you-do,100
+33,hello,welcome; message of kindness,compliments,100
+34,hello,welcome; message of kindness,hi,100
+35,hello,welcome; message of kindness,best wishes,100
+36,hello,welcome; message of kindness,compellation,100
+37,hello,welcome; message of kindness,good wishes,100
+38,hello,welcome; message of kindness,high five,100
+39,hello,welcome; message of kindness,speaking to,100
+40,hello,welcome; message of kindness,ushering in,100
+41,hello,welcome; message of kindness,what's happening,100
+42,hello,welcome; message of kindness,letters,100
+43,hello,welcome; message of kindness,nods,100
+44,hello,welcome; message of kindness,ovations,100
+45,hello,welcome; message of kindness,salutes,100
+46,hello,welcome; message of kindness,receptions,100
+47,hello,welcome; message of kindness,hellos,100
+48,hello,welcome; message of kindness,cards,100
+49,hello,welcome; message of kindness,hail,100
+50,hello,welcome; message of kindness,salutations,100
+51,hello,welcome; message of kindness,blows,100
+52,hello,welcome; message of kindness,respects,100
+53,hello,welcome; message of kindness,acknowledgments,100
+54,hello,welcome; message of kindness,testimonials,100
+55,hello,welcome; message of kindness,alohas,100
+56,hello,welcome; message of kindness,notes,100
+57,hello,welcome; message of kindness,notices,100
+58,hello,welcome; message of kindness,attentions,100
+59,hello,welcome; message of kindness,rumbles,100
+60,hello,welcome; message of kindness,regard,100
+61,hello,welcome; message of kindness,addresses,100
+62,hello,welcome; message of kindness,salaams,100
+63,hello,welcome; message of kindness,heraldings,100
+64,hello,welcome; message of kindness,ciaos,100
+65,hello,welcome; message of kindness,accostings,100
+66,hello,welcome; message of kindness,howdies,100
+67,hello,welcome; message of kindness,highballs,100
+68,hello,welcome; message of kindness,how-do-you-dos,100
+69,hello,welcome; message of kindness,compliments,100
+70,hello,welcome; message of kindness,his,100
+71,hello,welcome; message of kindness,best wishes,100
+72,hello,welcome; message of kindness,compellations,100
+73,hello,welcome; message of kindness,good wishes,100
+74,hello,welcome; message of kindness,high fives,100
+75,hello,welcome; message of kindness,speaking tos,100
+76,hello,welcome; message of kindness,ushering ins,100
+77,hello,welcome; message of kindness,what's happenings,100
+78,hello,"call to, yell for",signal,100
+79,hello,"call to, yell for",welcome,100
+80,hello,"call to, yell for",salute,100
+81,hello,"call to, yell for",greet,100
+82,hello,"call to, yell for",address,100
+83,hello,"call to, yell for",shoulder,100
+84,hello,"call to, yell for",shout,100
+85,hello,"call to, yell for",yawp,100
+86,hello,"call to, yell for",accost,100
+87,hello,"call to, yell for",flag,100
+88,hello,"call to, yell for",holler,100
+89,hello,"call to, yell for",hello,100
+90,hello,"call to, yell for",flag down,100
+91,hello,"call to, yell for",sing out,100
+92,hello,"call to, yell for",speak to,100
+93,hello,"call to, yell for",wave down,100
+94,hello,"call to, yell for",whistle down,100
+95,hello,"call to, yell for",whistle for,100
+96,hello,"call to, yell for",yoo-hoo,100
+97,hello,"call to, yell for",acclaimed,100
+98,hello,"call to, yell for",acknowledged,100
+99,hello,"call to, yell for",applauded,100
+100,hello,"call to, yell for",recognized,100
+101,hello,"call to, yell for",welcomed,100
+102,hello,"call to, yell for",greeted,100
+103,hello,"call to, yell for",commended,100
+104,hello,"call to, yell for",cheered,100
+105,hello,"call to, yell for",praised,100
+106,hello,"call to, yell for",recommended,100
+107,hello,"call to, yell for",exalted,100
+108,hello,"call to, yell for",glorified,100
+109,hello,"call to, yell for",complimented,100
+110,hello,"call to, yell for",heard it for,100
+111,hello,"call to, yell for",kudized,100
+112,hello,"call to, yell for",root for,100
+113,hello,"call to, yell for",acclaiming,100
+114,hello,"call to, yell for",acknowledging,100
+115,hello,"call to, yell for",applauding,100
+116,hello,"call to, yell for",recognizing,100
+117,hello,"call to, yell for",welcoming,100
+118,hello,"call to, yell for",greeting,100
+119,hello,"call to, yell for",commending,100
+120,hello,"call to, yell for",cheering,100
+121,hello,"call to, yell for",praising,100
+122,hello,"call to, yell for",recommending,100
+123,hello,"call to, yell for",exalting,100
+124,hello,"call to, yell for",glorifying,100
+125,hello,"call to, yell for",complimenting,100
+126,hello,"call to, yell for",hearing it for,100
+127,hello,"call to, yell for",kudizing,100
+128,hello,"call to, yell for",root for,100
