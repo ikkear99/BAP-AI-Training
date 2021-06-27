@@ -5,7 +5,7 @@
 
 _Flag_of_Austria_
 
-![alt text](E:\DIEN_BAPSoftware\Bap_venv\image_processing\img\flag_of_Austria.png)
+![alt text](https://github.com/ikkear99/BAP-AI-Training/blob/master/image_processing/img/flag_of_Austria.png)
 
 _Flag_of_Japan_
 
