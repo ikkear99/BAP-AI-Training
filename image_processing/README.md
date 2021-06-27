@@ -9,12 +9,12 @@ _Flag_of_Austria_
 
 _Flag_of_Japan_
 
-![alt text](E:\DIEN_BAPSoftware\Bap_venv\image_processing\img\flag_of_Japan.png)
+![alt text](https://github.com/ikkear99/BAP-AI-Training/blob/master/image_processing/img/flag_of_Japan.png)
 
 _Flag_of_Turkey_
 
-![alt text](E:\DIEN_BAPSoftware\Bap_venv\image_processing\img\flag_of_Turkey.png)
+![alt text](https://github.com/ikkear99/BAP-AI-Training/blob/master/image_processing/img/flag_of_Turkey.png)
 
 _Flag_of_Qatar_
 
-![alt text](E:\DIEN_BAPSoftware\Bap_venv\image_processing\img\flag_of_Quatar.png)
+![alt text](https://github.com/ikkear99/BAP-AI-Training/blob/master/image_processing/img/flag_of_Quatar.png)
