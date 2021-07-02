@@ -7,10 +7,8 @@ cap.set(3, frameWidth)
 cap.set(4, frameHeight)
 cap.set(10,150)
 
-myColors = [[0,116,146,179,255,255]] #HSV range
+myColors = [[0,116,146,179,255,255]] #HSV range you find with HSV_range.py
 myColorValues =[[0,255,0]]
-
-
 
 myPoints =  []  ## [x , y , colorId ]
 
@@ -50,6 +48,7 @@ def drawOnCanvas(myPoints,myColorValues):
 while True:
     success, img = cap.read()
     imgResult = img.copy()
+    imgResult = cv2.flip(imgResult,1)
     newPoints = findColor(img, myColors,myColorValues)
     if len(newPoints)!=0:
         for newP in newPoints:
